@@ -52,8 +52,10 @@ npm install
 ```bash
 npm run dev
 
+---
 ## Contributing 💡
 We welcome contributions! Feel free to fork the repo and submit pull requests.
 
+---
 ## Contact 📬
 For any questions or feedback, reach me at: mauryaprashant1510@gmail.com  or https://www.linkedin.com/in/prashant-maurya-017776246/
